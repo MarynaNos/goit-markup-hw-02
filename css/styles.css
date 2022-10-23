@@ -124,10 +124,6 @@ body {
 .order-btn:focus {
     background: #188CE8;
 }
-.advantages,
-.works {
-    background: #F5F5F5;
-}
 .advantages-title {
     font-weight: 700;
     font-size: 14px;
@@ -141,9 +137,6 @@ body {
     letter-spacing: 0.03em;
     color: var(--text-color);
  }
-.team {
-    background: #F5F4FA;
-}
 .title-h2 {
     font-weight: 700;
     font-size: 36px;
@@ -167,9 +160,6 @@ body {
 }
 
 /* Portfolio */
-.examples {
-    background: #F5F5F5;
-}
 .filter-btn {
     font-family: inherit;
     font-weight: 500;
@@ -178,8 +168,7 @@ body {
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--title-color);
-    background: #F5F4FA;
-}
+    }
 .filter-btn:hover,
 .filter-btn:focus {
     color: #FFFFFF;
